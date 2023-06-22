@@ -1,2 +1,3 @@
 # thirdwheel
-Web based chat application
+
+## Web based chat application
